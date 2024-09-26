@@ -4,3 +4,4 @@ const arr = [1, [2, [3, [4, [5]]]]];
 
 const result = lodash.flattenDeep(arr);
 console.log(result);
+console.log('hello people')
